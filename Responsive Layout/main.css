@@ -97,7 +97,7 @@ footer{
     text-align: center;
 }
 
-@media screen and (min-width: 1229px){  
+@media screen and (min-width: 1244px){  
     .gallery{ 
         display: grid;
         grid-template-columns: repeat(auto-fill,minmax(610px,1fr));
@@ -107,7 +107,7 @@ footer{
     }
 }
 
-@media screen and (min-width: 815px) and (max-width:1229px){  
+@media screen and (min-width: 815px) and (max-width:1244px){  
     .gallery{ 
         display: grid;
         grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
